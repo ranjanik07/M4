@@ -1,3 +1,6 @@
+NAME: RANJANI K
+
+REG NO: 212224230220
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
@@ -10,9 +13,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/9e8afc83-7e4a-49f0-b3ae-90424e8392a1)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/79e6e82c-8139-4d8b-aaba-3d5ee6e71c48)
 
 
 
@@ -47,10 +52,18 @@ Write a C Program to check whether the two numbers are equal or not using simple
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/50ad7a30-802f-4fb9-b2d6-42c9a89c1724)
 
+INPUT:
 
-## OUTPUT
-           
+  ![image](https://github.com/user-attachments/assets/f24d6946-167b-43d1-b4a1-2cbf4c5ab5ae)
+![image](https://github.com/user-attachments/assets/8551d670-5620-47d5-be06-de083d64b65b)
+
+ ## OUTPUT 
+
+ ![image](https://github.com/user-attachments/assets/ef37698b-9aa0-495f-af83-75a2167ef698)
+![image](https://github.com/user-attachments/assets/2b4543a9-45bc-4ed5-a60b-d4ed31d18b6a)
+
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -70,9 +83,15 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/2010c415-6ced-46a4-aa07-68eda65de6bf)
+
+INPUT:
+
+![image](https://github.com/user-attachments/assets/b219be8a-3025-4adc-810b-c32d42feb2f4)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/0e664514-3c74-4894-b7ef-f8ddc7815d3f)
 
 
 
@@ -95,8 +114,14 @@ Write a C Program to count the total number of words in a given string using do 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/782ff596-4d1d-46b2-afdc-fde3e9e7fcd8)
+
+INPUT:
+
+![image](https://github.com/user-attachments/assets/f223aefb-99d7-4485-9020-e8af72282a6d)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/bb99cbb8-4776-4df0-abec-3e304b5045a8)
 
 
 
@@ -129,10 +154,16 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/fc7d0764-8a2e-4c3a-83b6-a62c3eedec60)
 
+INPUT:
+
+![image](https://github.com/user-attachments/assets/470fe504-f3cb-4c51-b640-7d87c5d6dceb)
 
 ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/31d223cd-8a03-4cc8-a02d-d60bfde48ace)
+
+![image](https://github.com/user-attachments/assets/b107261f-98fc-4cc2-8208-05221a518578)
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
